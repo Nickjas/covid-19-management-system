@@ -1,10 +1,6 @@
-##  Attendance Management system using Face👦🏻👧 Recognition [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg)](https://github.com/Spidy20/Attendace_management_system/blob/master/LICENSE)
+##  Covid-19 Management system using Face👦🏻👧 Recognition [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg)](https://github.com/Spidy20/Attendace_management_system/blob/master/LICENSE)
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
-[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
-## [Follow us on Instagram for Machine Learning Guidelines & Path](https://www.instagram.com/machine_learning_hub.ai/)
-## [Buy Python & ML projects for students at lower rate](https://www.instamojo.com/kushalbhavsar1820)
 
 
 ### Sourcerer
@@ -15,12 +11,17 @@
 - Tkinter(Available in python)
 - PIL (`pip install Pillow`)
 - Pandas(`pip install pandas`)
+- Tensorflow
+- Matplotlib
+- MTCNN
+- imutils
+
 
 ### What steps you have to follow??
 - Download my Repository 
 - Create a `TrainingImage` folder in a project.
-- Open a `AMS_Run.py` and change the all paths with your system path
-- Run `AMS_Run.py`.
+- Open a `cms.py` and change the all paths with your system path
+- Run `cms.py`.
 
 ### Project Structure
 
