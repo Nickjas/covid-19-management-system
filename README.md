@@ -1,10 +1,4 @@
-##  Covid-19 Management system using Face👦🏻👧 Recognition [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg)](https://github.com/Spidy20/Attendace_management_system/blob/master/LICENSE)
-
-
-
-
-### Sourcerer
-<a href="https://sourcerer.io/spidy20"><img src="https://avatars2.githubusercontent.com/u/42056100?v=4" height="50px" width="50px" alt=""/></a>
+##  Covid-19 Management system using Face👦🏻👧 Recognition [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg)]
 
 ### Code Requirements
 - Opencv(`pip install opencv-python`)
@@ -31,31 +25,32 @@
 - It will take 5-10 minutes for training(for 10 person data).
 - After training click on `Automatic Attendance` ,it can fill attendace by your face using our trained model (model will save in `TrainingImageLabel` )
 - it will create `.csv` file of attendance according to time & subject.
-- You can store data in database (install wampserver),change the DB name according to your in `AMS_Run.py`.
-- `Manually Fill Attendace` Button in UI is for fill a manually attendance (without facce recognition),it's also create a `.csv` and store in a database.
+- You can store data in database,change the DB name according to your in `AMS_Run.py`.
+- `Manually Fill Attendace` Button in UI is for fill a manually attendance (without face recognition),it's also create a `.csv` and store in a database.
+-'Face mask detection' determines whether one has a mask or not
+-social distance button checks the distance between people
+
 
 ### Screenshots
 
 ### Basic UI
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(43).png">
+<img src="https://github.com/Nickjas/covid-19-management-system/Screenshot%20(43).png">
 
 ### When it's Recognise me
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(41).png">
+<img src="https://github.com/Nickjas/covid-19-management-system/Screenshot%20(41).png">
 
 ### When it's fill a attendace
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(42).png">
+<img src="https://github.com/Nickjas/covid-19-management-system/Screenshot%20(42).png">
 
 ### Manually attendance filling UI
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/Screenshot%20(44).png">
+<img src="https://github.com/Nickjas/covid-19-management-system/Screenshot%20(44).png">
 
 
 ### How it works? See:)
 
-<img src="https://github.com/Spidy20/Attendace_management_system/blob/master/AMS.gif">
+<img src="https://github.com/Nickjas/covid-19-management-system/AMS.gif">
 
-### Video demo
 
-[Youtube](https://www.youtube.com/watch?v=dXViSRRydRs)
 
 
 ### Notes
@@ -65,6 +60,3 @@
 
 ## Just follow☝️ me and Star⭐ my repository 
 
-## Read our Machine learning & Data science related blogs:- [Here](https://www.vruttitanna.com/post/why-kaggle-is-important-for-data-science)
-
-## Buy more projects at very low price:- [STORE](https://www.instamojo.com/kushalbhavsar1820)
