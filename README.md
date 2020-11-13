@@ -2,17 +2,17 @@
 ### Screenshots
 
 ### Basic UI
-<img src="https://github.com/Nickjas/covid-19-management-system//blob/gh-pages/sc1.PNG">
+<img src="https://github.com/Nickjas/covid-19-management-system/blob/gh-pages/sc1.PNG">
 
 ### When it's Recognise me
-<img src="https://github.com/Nickjas/covid-19-management-system//blob/gh-pages/sc1.PNG">
+<img src="https://github.com/Nickjas/covid-19-management-system/blob/gh-pages/sc3.PNG">
 
 ### When it's fill a attendace
-<img src="https://github.com/Nickjas/covid-19-management-system/screenshoot(43).PNG">
+
 
 ### determine whether one has a mask or not
 <img src="https://github.com/Nickjas/covid-19-management-system/blob/gh-pages/screnshot(41).PNG">
-
+<img src="https://github.com/Nickjas/covid-19-management-system/blob/gh-pages/screenshoot(43).PNG">
 
 ### How it works? See:)
 
