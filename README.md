@@ -34,16 +34,16 @@
 ### Screenshots
 
 ### Basic UI
-<img src="https://github.com/Nickjas/covid-19-management-system/Screenshot%20(43).png">
+<img src="https://github.com/Nickjas/covid-19-management-system/Screenshot (43).png">
 
 ### When it's Recognise me
-<img src="https://github.com/Nickjas/covid-19-management-system/Screenshot%20(41).png">
+<img src="https://github.com/Nickjas/covid-19-management-system/Screenshot (41).png">
 
 ### When it's fill a attendace
-<img src="https://github.com/Nickjas/covid-19-management-system/Screenshot%20(42).png">
+<img src="https://github.com/Nickjas/covid-19-management-system/Screenshot(42).png">
 
 ### Manually attendance filling UI
-<img src="https://github.com/Nickjas/covid-19-management-system/Screenshot%20(44).png">
+<img src="https://github.com/Nickjas/covid-19-management-system/Screenshot(44).png">
 
 
 ### How it works? See:)
