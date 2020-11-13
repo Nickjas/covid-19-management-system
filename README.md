@@ -1,4 +1,22 @@
 ##  Covid-19 Management system using Face👦🏻👧 Recognition [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg)]
+### Screenshots
+
+### Basic UI
+<img src="https://github.com/Nickjas/covid-19-management-system//blob/gh-pages/sc1.PNG">
+
+### When it's Recognise me
+<img src="https://github.com/Nickjas/covid-19-management-system//blob/gh-pages/sc1.PNG">
+
+### When it's fill a attendace
+<img src="https://github.com/Nickjas/covid-19-management-system/screenshoot(43).PNG">
+
+### determine whether one has a mask or not
+<img src="https://github.com/Nickjas/covid-19-management-system/screnshot(41).PNG">
+
+
+### How it works? See:)
+
+<img src="https://github.com/Nickjas/covid-19-management-system/AMS.gif">
 
 ### Code Requirements
 - Opencv(`pip install opencv-python`)
@@ -31,24 +49,6 @@
 -social distance button checks the distance between people
 
 
-### Screenshots
-
-### Basic UI
-<img src="https://github.com/Nickjas/covid-19-management-system/Screenshot (43).png">
-
-### When it's Recognise me
-<img src="https://github.com/Nickjas/covid-19-management-system/Screenshot (41).png">
-
-### When it's fill a attendace
-<img src="https://github.com/Nickjas/covid-19-management-system/Screenshot(42).png">
-
-### Manually attendance filling UI
-<img src="https://github.com/Nickjas/covid-19-management-system/Screenshot(44).png">
-
-
-### How it works? See:)
-
-<img src="https://github.com/Nickjas/covid-19-management-system/AMS.gif">
 
 
 
