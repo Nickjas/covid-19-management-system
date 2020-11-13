@@ -8,15 +8,15 @@
 <img src="https://github.com/Nickjas/covid-19-management-system/blob/gh-pages/sc3.PNG">
 
 ### When it's fill a attendace
-
+<img src="https://github.com/Nickjas/covid-19-management-system/blob/gh-pages/sc4.PNG">
 
 ### determine whether one has a mask or not
 <img src="https://github.com/Nickjas/covid-19-management-system/blob/gh-pages/screnshot(41).PNG">
 <img src="https://github.com/Nickjas/covid-19-management-system/blob/gh-pages/screenshoot(43).PNG">
 
-### How it works? See:)
+### How social distancing detection works? See:)
+<img src="https://github.com/Nickjas/covid-19-management-system/blob/gh-pages/sc5.PNG">
 
-<img src="https://github.com/Nickjas/covid-19-management-system/AMS.gif">
 
 ### Code Requirements
 - Opencv(`pip install opencv-python`)
